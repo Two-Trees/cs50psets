@@ -9,7 +9,7 @@ int main(void)
    
     do
     {
-        n = get_int("how would you like to cut through th bullshit??\n");
+        n = get_int("how would you like to cut through the bullshit??\n");
     } while (n < 1 || n > 8);
     
     
@@ -44,4 +44,3 @@ int main(void)
     }
 }
 
-//check us out: www.teachtolearn.life
